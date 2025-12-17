@@ -7,7 +7,7 @@ body {
   flex-direction: column;
   justify-content: center; /* centre verticalement */
   align-items: center;     /* centre horizontalement */
-  background-color: pink;  /* fond blanc */
+  background-color: white;  /* fond blanc */
   font-family: Arial, sans-serif;
   text-align: center;
   color: #000; /* texte noir */
@@ -46,13 +46,12 @@ audio {
     width: 90%;
   }
   h1 {
-    font-size: 1.5em;
-    color: red;
+    font-size: 1.8em;
   }
   h2 {
     font-size: 1em;
   }
   .logo {
-    width: 150px;
+    width: 175px;
   }
 }
