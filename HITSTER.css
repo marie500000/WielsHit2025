@@ -26,11 +26,6 @@ h1 {
   margin-bottom: 0.5em;
 }
 
-@media (max-width: 480px) {
-  h1 {
-    font-size: 1.8rem;
-  }
-
 /* Sous-titre */
 h2 {
   font-size: 1.2em;
@@ -58,5 +53,10 @@ audio {
   }
   .logo {
     width: 150px;
+  }
+
+  @media (max-width: 480px) {
+  h1 {
+    font-size: 1.8rem;
   }
 }
